@@ -1,0 +1,10 @@
+
+*.exe
+
+*.user
+
+*.pdb
+
+obj/*
+
+bin/*
